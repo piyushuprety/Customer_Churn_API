@@ -5,7 +5,7 @@ json5 @ file:///tmp/build/80754af9/json5_1624432770122/work
 jsonschema @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_e5_l6coyjh/croots/recipe/jsonschema_1663375475589/work
 numpy==1.23.5
 pandas==1.5.3
-gunicorn=21.2.0
+gunicorn==21.2.0
 pickle-mixin==1.0.2
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 requests @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_b15e28ca-768e-4951-b4c6-8a7476e43183hrjpnkg9/croots/recipe/requests_1657734638595/work
