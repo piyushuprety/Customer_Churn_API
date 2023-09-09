@@ -6,7 +6,7 @@ from flask_cors import CORS
 app = Flask(__name__)
 CORS(app) 
 
-filename = 'Back/Final_Model.sav'
+filename = './Final_Model.sav'
 load_model = pickle.load(open(filename, 'rb'))
 
 def predict(question):
