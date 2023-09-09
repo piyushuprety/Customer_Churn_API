@@ -4,3 +4,4 @@ numpy
 pandas
 gunicorn
 pickle-mixin
+sklearn
